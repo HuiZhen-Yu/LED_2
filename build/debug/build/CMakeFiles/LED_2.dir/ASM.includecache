@@ -1,0 +1,10 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+E:/Study/Enbedded/Project/CUBEIDEPrj/STM32CubeIDE/workspace_1.13.0/LED_2/Core/Startup/startup_stm32h753iitx.s
+
